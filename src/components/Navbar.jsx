@@ -24,7 +24,7 @@ const Navbar = () => {
             <a href="#uploadimage">Upload Image</a>
           </button>
           <button className="hover:text-green-900 hover:scale-125 transition-all hover:font-semibold ">
-            <a href="#write">Write Us</a>
+            <a href="#contact">Write Us</a>
           </button>
         </div>
       </div>
