@@ -88,7 +88,7 @@ const Contact = () => {
             </form>
           </div>
           <div className="flex justify-center items-center">
-            <div className="hover:scale-125 transition-all mb-[6vh] flex flex-col justify-center items-center">
+            <div className="hover:scale-125 transition-all mb-[6vh] flex flex-col justify-center items-center m-7">
               <a href="https://www.linkedin.com/in/web-devloper-amaan-khan">
                 <svg
                   stroke="currentColor"
@@ -106,7 +106,7 @@ const Contact = () => {
               Amaan Khan
             </h1>
             </div>
-            <div className="hover:scale-125 transition-all mb-[6vh] flex flex-col justify-center items-center">
+            <div className="hover:scale-125 transition-all mb-[6vh] flex flex-col justify-center items-center m-7">
               <a href="https://in.linkedin.com/in/antariksh-rajkonwar">
                 <svg
                   stroke="currentColor"
